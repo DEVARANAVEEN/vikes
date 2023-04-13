@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salinaka | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
@@ -62,4 +63,20 @@ $ yarn build
 * Firebase authentication
 * Firebase auth provider authentication
 * Account creation and edit
+=======
+
+# vikes
+Hey this is Jay.
+ishubham Alaa
+Naveen
+Nargis
+K test 
+
+Shubham Fate
+
+
+
+Hello my name is Naveen
+Hello My Name is Shubham
+>>>>>>> origin/shubham
 
