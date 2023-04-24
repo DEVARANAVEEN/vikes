@@ -1,6 +1,7 @@
 # shubhamfate1-ecommerce-react-master
 Simple ecommerce react js app with firebase [typescript].
 
+
 ## Run Locally
 ### 1. Install Dependencies
 ```sh
@@ -53,4 +54,4 @@ $ npm run build
 * Admin CRUD operations
 * Firebase authentication
 * Firebase auth provider authentication
-* Account creation and edit
+
