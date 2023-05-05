@@ -5,7 +5,10 @@ Simple ecommerce react js app with firebase [typescript].
 ### [Live demo](https://Ametouche-ecommerce.web.app/)
 
 ![Ametouche screenshot](https://ametouche-ed07c.web.app/assets/GucciBag.8d48c573.jpg)
+<<<<<<< HEAD
 
+=======
+>>>>>>> e6f48bba6966319457e1e672dab26f19715cc4c5
 
 ## Run Locally
 ### 1. Install Dependencies
