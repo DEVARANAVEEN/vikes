@@ -2,7 +2,7 @@
 Simple ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/DEVARANAVEEN/vikes/blob/main/.github/workflows/firebasedeploy.yml)
 
-### [Live demo](https://ametouche-ed07c.web.app/)
+### [Live demo](https://ametouche-ed07c.web.app)
 
 ![ametouche screenshot](	https://ametouche-ed07c.web.app/assets/GucciBag.8d48c573.jpg)
 
