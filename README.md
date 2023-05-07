@@ -1,4 +1,5 @@
-# ametouche | E-commerce react app
+# AmeTouche | E-commerce react app
+
 Simple ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/DEVARANAVEEN/vikes/blob/main/.github/workflows/firebasedeploy.yml)
 
