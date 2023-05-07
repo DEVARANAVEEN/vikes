@@ -179,7 +179,7 @@ const ProductForm = ({ product, onSubmit, isLoading }) => {
                     isMulti
                     disabled={isLoading}
                     placeholder="Create/Select Sizes"
-                    label="* Sizes (Millimeter)"
+                    label="* Sizes (Inches)"
                   />
                 </div>
               </div>

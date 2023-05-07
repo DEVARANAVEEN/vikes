@@ -1,14 +1,10 @@
-# Ametouche | E-commerce react app
+# AmeTouche | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
-![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
+![Firebase Deploy](https://github.com/DEVARANAVEEN/vikes/blob/main/.github/workflows/firebasedeploy.yml)
 
-### [Live demo](https://Ametouche-ecommerce.web.app/)
+### [Live demo](https://ametouche-ed07c.web.app/)
 
-![Ametouche screenshot](https://ametouche-ed07c.web.app/assets/GucciBag.8d48c573.jpg)
-<<<<<<< HEAD
-
-=======
->>>>>>> e6f48bba6966319457e1e672dab26f19715cc4c5
+![ametouche screenshot](	https://ametouche-ed07c.web.app/assets/GucciBag.8d48c573.jpg)
 
 ## Run Locally
 ### 1. Install Dependencies
